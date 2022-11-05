@@ -1,0 +1,1 @@
+This repository exists solely as an easy way to link to my GPU Performance Spreadsheet - check it out here: https://docs.google.com/spreadsheets/d/1uT2R5TtjzDfzOcqRRPd6t9-PR506NEuroxEzrF--gug/edit#gid=0
